@@ -2,7 +2,7 @@
     "disableAutoUpdate": true,
     "name": "Anti Crash",
     "author": "Fumiya",
-    "description": "Anti Crash",
+    "description": "Blocks the malicious exploit used by players in Tera with the intent to crash your game.",
     "version": "1.0",
     "options": {
         "guiName": "Anti Crash",

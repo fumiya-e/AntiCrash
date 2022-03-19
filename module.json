@@ -1,0 +1,17 @@
+{
+    "disableAutoUpdate": true,
+    "name": "Anti Crash",
+    "author": "Fumiya",
+    "description": "Anti Crash",
+    "version": "1.0",
+    "options": {
+        "guiName": "Anti Crash",
+        "niceName": "Anti Crash",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/fumiya-e/AntiCrash/master/"],
+    "supportUrl": "https://github.com/fumiya-e/AntiCrash/issues",
+    "dependencies": {
+        "tera-game-state": "https://raw.githubusercontent.com/caali-hackerman/tera-game-state/master/module.json"
+    }
+}

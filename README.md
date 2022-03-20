@@ -12,3 +12,6 @@ When such an event occurs, you will be informed of it ingame (including the name
 - Everyone around your that is not protected will disappear
 - You will see in chat the following message: 
   - Blocked crash attempt from 'Player.Name'
+
+# Do I have to trust you?
+No. The module comes with [auto-updates disabled by default](https://github.com/fumiya-e/AntiCrash/blob/master/module.json#L2), and the code is easily readable.
